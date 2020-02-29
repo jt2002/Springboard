@@ -1,7 +1,7 @@
 
 ### README: Data
 
-1. Full data can be downloaded from `https://nijianmo.github.io/amazon/index.html`
+1. Full data can be downloaded from [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html)
    * Book review 5-core contains 27,164,983 reviews
 2. Data in this folder
    * Books_5_5000.json - 5000 Book reviews in JSON format
