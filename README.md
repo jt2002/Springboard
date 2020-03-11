@@ -4,3 +4,4 @@
 2. mini-project-pandas - Data wrangling with pandas
 3. mini-project-json-data - JSON-based data analysis
 4. mini-project-sql-with-spark - SQL with Spark
+5. mini-project-data-wrangling-with-spark - Data Wrangling at Scale with Spark
