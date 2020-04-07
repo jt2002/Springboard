@@ -7,3 +7,4 @@
 5. mini-project-data-wrangling-with-spark - Data Wrangling at Scale with Spark
 6. mini-project-linear-regression - Linear Regression
 7. mini-project-logistic-regression - Logistic Regression
+8. mini-project-tree-based - Decision Tree, Random Forest, XGBoost, CatBoost, LightBGM
